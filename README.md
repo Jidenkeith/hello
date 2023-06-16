@@ -20,7 +20,7 @@
             SignUpUser()
         }
     }
-
+https://drive.google.com/file/d/1sx8snUfoTNTFAfo8_IZXDLf_OyIzUZmV/view?usp=sharing
     private fun SignUpUser(){
         val email=myemail.text.toString()
         val pass=mypassword.text.toString()
